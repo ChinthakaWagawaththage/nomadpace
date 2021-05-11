@@ -9,7 +9,7 @@
                             <span class="short-line"></span>
                             <span class="long-line"></span>
                         </div>
-                        <p class="heading-text">Nomad-pace.com
+                        <p class="heading-text">We hope you enjoy on nomad_pace website which focussing on the most important aspects of any content as much as we enjoy offering them to you - Team NomadPace
                         </p>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                         </div>
                         <div class="content">
                             <a href="#" class="title">{{ $settings->address }}</a>
-                            <p class="sub-title">439 - Subodharama Road - Peradeniya</p>
+                            <p class="sub-title">Office</p>
                         </div>
                     </div>
                 </div>

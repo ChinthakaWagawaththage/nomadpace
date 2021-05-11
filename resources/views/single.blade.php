@@ -75,7 +75,8 @@
                     </div>
 
                     <div class="socials text-center">Share:
-                        <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_jd8q"></div>
+                        <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+                        <!--<div class="addthis_inline_share_toolbox_jd8q"></div>-->
                     </div>
 
                 </article>

@@ -14,9 +14,9 @@ class SettingTableSeeder extends Seeder
         \App\Setting::create([
 
            'site_name' =>"Nomad_pace",
-           'contact_number' =>'012323232323',
-           'contact_email' =>'admin@gmail.com',
-           'address' =>'Rajshahi'
+           'contact_number' =>'761830736',
+           'contact_email' =>'nomadpaceofficial@gmail.com',
+           'address' =>'Kandy - Sri Lanka'
 
 
         ]);
